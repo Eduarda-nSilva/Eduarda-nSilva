@@ -17,8 +17,8 @@ Acredito que a base de qualquer aplicação inovadora reside na integridade dos 
 ### Minhas atuais Linguagens e Tecnologias:
 
 <img align="left" 
-    alt="Git" 
-    title="Git"
+    alt="MySql" 
+    title="MySql"
     width="40px" 
     style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
     />
